@@ -21,7 +21,6 @@ ENV/
 
 # Файли анкет
 surveys/
-*.txt
 
 # OS
 .DS_Store
